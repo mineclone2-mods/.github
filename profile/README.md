@@ -1,3 +1,3 @@
-# MineClone2 Mods
+**MineClone2 Mods**
 
 A GitHub Organisation.
